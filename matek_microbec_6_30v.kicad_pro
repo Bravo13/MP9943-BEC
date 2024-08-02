@@ -491,7 +491,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "assets/matek_microbec_6_30v.step",
       "svg": "",
       "vrml": ""
     },
