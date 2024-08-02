@@ -1,4 +1,4 @@
-# Matec micro BEC 6-30V to 5V/9V reverse
+# Matek micro BEC 6-30V to 5V/9V reverse
 ![image](/assets/sch.png)
 ![image](/assets/matek_microbec_6_30v.png)
 ## What
